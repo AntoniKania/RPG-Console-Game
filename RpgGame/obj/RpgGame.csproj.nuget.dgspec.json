@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Antek Kania\\Documents\\Visual Studio Code\\Studia\\C#\\RpgGame\\RpgGame\\RpgGame.csproj": {}
+    "C:\\Users\\Antek Kania\\Documents\\Visual Studio Code\\RPG-Console-Game\\RpgGame\\RpgGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Antek Kania\\Documents\\Visual Studio Code\\Studia\\C#\\RpgGame\\RpgGame\\RpgGame.csproj": {
+    "C:\\Users\\Antek Kania\\Documents\\Visual Studio Code\\RPG-Console-Game\\RpgGame\\RpgGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Antek Kania\\Documents\\Visual Studio Code\\Studia\\C#\\RpgGame\\RpgGame\\RpgGame.csproj",
+        "projectUniqueName": "C:\\Users\\Antek Kania\\Documents\\Visual Studio Code\\RPG-Console-Game\\RpgGame\\RpgGame.csproj",
         "projectName": "RpgGame",
-        "projectPath": "C:\\Users\\Antek Kania\\Documents\\Visual Studio Code\\Studia\\C#\\RpgGame\\RpgGame\\RpgGame.csproj",
+        "projectPath": "C:\\Users\\Antek Kania\\Documents\\Visual Studio Code\\RPG-Console-Game\\RpgGame\\RpgGame.csproj",
         "packagesPath": "C:\\Users\\Antek Kania\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Antek Kania\\Documents\\Visual Studio Code\\Studia\\C#\\RpgGame\\RpgGame\\obj\\",
+        "outputPath": "C:\\Users\\Antek Kania\\Documents\\Visual Studio Code\\RPG-Console-Game\\RpgGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

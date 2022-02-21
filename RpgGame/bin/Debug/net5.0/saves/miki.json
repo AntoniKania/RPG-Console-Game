@@ -1,0 +1,14 @@
+{
+  "Dexterity": 11,
+  "Name": "miki",
+  "MyClass": "ninja",
+  "Strength": 12,
+  "Intelligence": 7,
+  "Items": [],
+  "Exp": 1000,
+  "MaxHp": 110,
+  "Cash": 500,
+  "Armor": 0,
+  "Level": 2,
+  "FinishedLevel": 2
+}

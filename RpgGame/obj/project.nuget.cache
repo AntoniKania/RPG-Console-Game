@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vn4atdB+QmGjlPijxpx6vLiNLhsaO2a31ji1DS9VXj2R+nxbXcqj5/EvzD3Fk6L6Sg41l30T2UrQwRMtca186A==",
+  "dgSpecHash": "BtlifBFcCYgY0Q0cg5w5CXgxIAhG5f87T5ze2YAWRDxABvoUxUNw3qPq5pDKAJycnva46CAOHjiXXhBha9mexA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Antek Kania\\Documents\\Visual Studio Code\\Studia\\C#\\RpgGame\\RpgGame\\RpgGame.csproj",
+  "projectFilePath": "C:\\Users\\Antek Kania\\Documents\\Visual Studio Code\\RPG-Console-Game\\RpgGame\\RpgGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Antek Kania\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Antek Kania\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
