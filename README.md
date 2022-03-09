@@ -3,6 +3,9 @@ The main goal of this project is to clear out the concet of OOP. It performs sim
 It also uses SQLite database to store stats of items which player can buy in shop.
 
 Main menu screen:
+
 <img src="images/main_menu.png">
-Fight screen;
+
+Fight screen:
+
 <img src="images/fight.png">
